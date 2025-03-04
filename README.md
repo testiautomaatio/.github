@@ -19,7 +19,7 @@
 
 **Tenttien ajankohdat ja uusintamahdollisuudet:**
 - **Koe:** Kurssin lopussa koe kurssin teoriasisällöstä.
-- **Uusintamahdollisuudet:** Mahdollisuus uusia tentti
+- **Uusintamahdollisuudet:** Mahdollisuus uusia koe Examissa
 
 **Kansainvälisyys:**
 - **Englanninkielinen materiaali:** Käytetään englanninkielisiä oppimateriaaleja ja kirjallisuutta.
