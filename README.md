@@ -15,7 +15,7 @@
 
 **Työelämäyhteydet:**
 - **Vierailuluento:** Alan ammattilainen kertoo kokemuksiaan ja parhaita käytäntöjään.
-- **Excursio:** Vierailu yritykseen tutustumaan heidän testausprosesseihinsa ja -työkaluihinsa.
+- **Excursio:** Vierailu yritykseen tutustumaan heidän testausprosesseihin ja -työkaluihin.
 
 **Tenttien ajankohdat ja uusintamahdollisuudet:**
 - **Koe:** Kurssin lopussa koe kurssin teoriasisällöstä.
