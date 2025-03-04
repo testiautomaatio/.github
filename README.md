@@ -9,6 +9,7 @@
 - **Kirjat:**
   - *"Automated Software Testing: Introduction, Management, and Performance"* – Elfriede Dustin, Jeff Rashka, John Paul
   - *"Continuous Testing for DevOps Professionals"* – Eran Kinsbruner
+  - *"Ohjelmistotestauksen käsikirja"* - Jussi Pekka Kasurinen
 - **Verkkolähteet:**
   - Testausvälineiden viralliset dokumentaatiot ja käyttöoppaat.
 
