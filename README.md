@@ -7,8 +7,8 @@
 
 **Oppimateriaali ja suositeltava kirjallisuus:**
 - **Kirjat:**
-  - *"Automated Software Testing: Introduction, Management, and Performance"* – Elfriede Dustin, Jeff Rashka, John Paul
-  - *"Continuous Testing for DevOps Professionals"* – Eran Kinsbruner
+  - *"GitHub Actions in Action"* – Michael Kaufmann, Marcel de Vries, Rob Bos
+  - *"Accelerate DevOps with GitHub"* – Michael Kaufmann
   - *"Ohjelmistotestauksen käsikirja"* - Jussi Pekka Kasurinen
 - **Verkkolähteet:**
   - Testausvälineiden viralliset dokumentaatiot ja käyttöoppaat.
