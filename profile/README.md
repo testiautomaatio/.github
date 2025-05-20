@@ -7,8 +7,8 @@
 
 **Oppimateriaali ja suositeltava kirjallisuus:**
 - **Kirjat:**
+  - *"Mastering GitHub Actions"* – Eric Chapman
   - *"GitHub Actions in Action"* – Michael Kaufmann, Marcel de Vries, Rob Bos
-  - *"Accelerate DevOps with GitHub"* – Michael Kaufmann
   - *"Ohjelmistotestauksen käsikirja"* - Jussi Pekka Kasurinen
 - **Verkkolähteet:**
   - Testausvälineiden viralliset dokumentaatiot ja käyttöoppaat.
