@@ -7,8 +7,7 @@
 
 **Oppimateriaali ja suositeltava kirjallisuus:**
 - **Kirjat:**
-  - *"Mastering GitHub Actions"* – Eric Chapman
-  - *"GitHub Actions in Action"* – Michael Kaufmann, Marcel de Vries, Rob Bos
+  - *"Test Automation: A manager's guide"* – Boby Jose
   - *"Ohjelmistotestauksen käsikirja"* - Jussi Pekka Kasurinen
 - **Verkkolähteet:**
   - Testausvälineiden viralliset dokumentaatiot ja käyttöoppaat.
