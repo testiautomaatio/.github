@@ -1,7 +1,6 @@
 # Ohjelmiston automaatiotestaus
 
 ## Opetusmenetelmät ja ohjaus:
-- **Tuntiopetus:** Torstaisin klo 08:30 - 10:45 luokassa 5006
 - **Harjoitukset:** Käytännön tehtäviä, joissa opiskelijat pääsevät soveltamaan oppimaansa käytännössä.
 - **Verkko-opetus:** Online-materiaalit ja -tehtävät, jotka tukevat itsenäistä opiskelua.
 
@@ -33,8 +32,3 @@
 
 **Toteutuksen valinnaiset oppimistavat:**
 - **Näyttö:** Mahdollisuus opintojakso näyttönä työelämässä tai opiskeluissa hankitun osaamisen esittelynä. Ota yhteyttä opintojakson opettajaan joko sähköpostilla tai luokassa opintojakson ensimmäisellä opetusviikolla.
-
-**Arviointitavat:**
-- **Koe:** 30 %
-- **Harjoitustehtävät:** Pisteytetään niiden laadun ja ajantasaisuuden perusteella 60 %
-- **Aktiivisuus:** Osallistuminen luennoille ja harjoituksiin vaikuttaa loppuarvosanaan 10 %
